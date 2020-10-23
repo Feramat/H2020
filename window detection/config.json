@@ -1,0 +1,16 @@
+{
+  "scada_params": {
+    "username": "xxx",
+    "password": "xxx",
+    "url": "xxx",
+    "project_id": "ea18e8f9-87ff-4db8-8a6d-4959cd8a98dc"
+  },
+  "variables": {
+    "class_01": {
+      "t_in": "b3651fc6-9a81-4920-9350-90fd066164fd",
+      "t_out": "bdc01d4c-e576-4e49-88d1-6fd4c3a17b09",
+      "t_supply": "25054d71-ca6d-47e2-aa15-0542c57f840c",
+      "ahu_fan": "9a2af1ea-f91a-4d3b-bd24-82b3846aa477"
+    }
+  }
+}
